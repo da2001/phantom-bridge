@@ -13,10 +13,10 @@ HTTP Adapter to control the volume of Devialet Phantom Speakers
 
 ## Config 
 * open index.js with your favorite text-editor
-* search for the `devialet_ipaddress` and rename this to the IP Adress of your Devialet Bridge
+* search for the `devialet_ipaddress` and rename this to the IP Address of your Devialet Bridge
 * save your changes
 
-Note: It is recommend to set a fixed ip Adress for the bridge. You can do this within the webinterface of your Devialet bridge. This interface is located at http://"bridge_ip_adress":8000/
+Note: It is recommend to set a fixed ip address for the bridge. You can do this within the webinterface of your Devialet bridge. This interface is located at http://"bridge_ip_address":8000/
 
 
 ## Start the phantom-brdige
