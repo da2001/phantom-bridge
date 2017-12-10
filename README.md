@@ -43,6 +43,6 @@ Note: The script doesnt read the volume from the devialet app at the moment. ItÂ
 
 
 # Other
-Make shure port **8080** and also **1900** is availible. You can change the port **8080** without problems, but you need **1900** to listen for the upnp messages for the bridge. The start will fail if these ports are used. 
+Make shure port **8080** and also **1900** is available. You can change the port **8080** without problems, but you need **1900** to listen for the upnp messages for the bridge. The start will fail if these ports are used. 
 
 I also tried to add functionality for Play/Pause/Stop/Prev/Next, but at this point it seams not to be implemented in the phantoms. 
