@@ -6,7 +6,7 @@ HTTP Adapter to control the volume of Devialet Phantom Speakers
 
 ## Installation
 
-* clone phantom-bridge
+* clone phantom-bridge or simply save `index.js`
 * Run `npm install request`
 * Run `npm install node-ssdp`
 
