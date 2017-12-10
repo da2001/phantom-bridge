@@ -1,6 +1,9 @@
 ### phantom-bridge
 HTTP Adapter to control the volume of Devialet Phantom Speakers
 
+## Prerequisite
+* You must have Node.js v6 installed, see http://nodejs.org
+
 ## Installation
 
 * clone phantom-bridge
