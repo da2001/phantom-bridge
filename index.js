@@ -14,7 +14,7 @@ http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'text/html'});
   var q = url.parse(req.url, true).query;
   
-  if(q.setVol && parseInt(q.setVol, 10) > 0)
+  if(q.setVol && parseInt(q.setVol, 10) >= 0)
   {
   	var txt = setVol(q.setVol);
   	actVol=parseInt(q.setVol);
